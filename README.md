@@ -1,4 +1,4 @@
 # DescargarLlamaTerminal
-Ejecutables de instalcion QuantLlama Terminal de Trading
+Ejecutables de instalacion QuantLlama Terminal de Trading Algritmica - Order Flow
 .
-Descarga los setup.exe de llama, mantenete actualizado en los Releases
+Descarga de llama, mantenete actualizado en los Releases
