@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/QuantumLLama.ico" alt="Quantum Llama Logo" width="120" />
+  <img src="images/QuantumLLama.png" alt="Quantum Llama Logo" width="120" />
   <br>
   Quantum Llama Terminal
 </h1>
